@@ -1,1 +1,3 @@
-# iem-mca-group-7
+# Smart-stroke-prediction
+
+https://stroke-prediction-m.herokuapp.com/
